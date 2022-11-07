@@ -1,0 +1,5 @@
+numpy
+torch
+scipy
+torchvision
+transformers
